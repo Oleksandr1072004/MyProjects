@@ -1,0 +1,3 @@
+Result: 5 %!d(string=*) 9 = 45 ; Date: %!d(string=5 %!d(string=April) 2025) 
+Result: 8 * 9 = 72 ; Date: 5 April 2025 
+Result: 2 - 1 = 1 ; Date: 5 April 2025 
